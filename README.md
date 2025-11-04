@@ -1,2 +1,2 @@
-# DPDiff
- 13/5000 Official code implementation of DPDiff
+# Spatio-Temporal Dual Priors Guided Diffusion for Remote Sensing Spatio-temporal Fusion
+The code will be released as soon as possible.
